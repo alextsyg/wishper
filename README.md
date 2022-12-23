@@ -1,3 +1,3 @@
 # wishper
 
-##wishlist manager
+wishlist manager
